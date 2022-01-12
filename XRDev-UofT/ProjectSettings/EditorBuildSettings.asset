@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/04-VRFoodFight/Scenes/FoodFight.unity
+    guid: 1ab5e59ab683492418057de2e6291f60
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ab3750fc76aee994fa39e12aea51ebad, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 8f72d3b2e1d306f4d9bc0701a5cb91a4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 73e459d35c1099541b53ea70e6be45da, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 85c4fe7fa305a434aa445991102b7c2c, type: 2}
